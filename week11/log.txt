@@ -1,0 +1,5 @@
+Error: Unable to connect to DATABASE
+Warning: Low disk space
+Error: DATABASE query failed
+Info: Scheduled maintanance
+Error: DATABASE connection timeout

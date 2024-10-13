@@ -1,0 +1,6 @@
+Department Month Sales
+Marketing January 450
+Sales February 1200
+IT March 600
+Finance April 300
+HR May 450

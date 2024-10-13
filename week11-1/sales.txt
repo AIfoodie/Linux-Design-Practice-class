@@ -1,0 +1,4 @@
+Department Month Sales
+Marketing January 450
+IT January 600
+Sales January 1300

@@ -1,0 +1,6 @@
+Dave 30
+Jaesik 100
+Amy 24
+Martin 22
+Carol 19
+Bob 52

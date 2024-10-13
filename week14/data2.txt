@@ -1,0 +1,6 @@
+user3:200
+user4:500
+user1:250
+user2:1000
+user5:700
+user6:88

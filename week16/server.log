@@ -1,0 +1,5 @@
+192.168.1.1 - [timestamp] "GET"
+192.168.1.2 - [timestamp] "POST"
+192.168.1.1 - [timestamp] "GET"
+192.168.1.2 - [timestamp] "POST"
+192.168.1.1 - [timestamp] "POST"

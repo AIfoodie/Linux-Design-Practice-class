@@ -1,0 +1,9 @@
+bat
+apple
+Apple
+Bat
+Ball
+ball
+bat
+apple
+ball
